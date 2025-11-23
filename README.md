@@ -1,6 +1,8 @@
 # 🧠 AI Text-to-Image Generator (Full Stack MERN + AI SaaS)
 
 A modern, full-stack AI SaaS application that enables users to generate high-quality images from text prompts using advanced AI models. Features user authentication, a credit-based system, and integrated payment processing.
+ 
+Live Demo: https://prompt2art.vercel.app
 
 ## 📘 Overview
 
